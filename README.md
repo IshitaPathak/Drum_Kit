@@ -1,4 +1,4 @@
-# Drum_Kit (https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/349/drum_1f941.png)
+# Drum_Kit🥁
 ## Link: https://ishitapathak.github.io/Drum_Kit/
 
 
